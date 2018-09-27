@@ -36,3 +36,8 @@ Wikka Hall of Fame
 - Yuxuan "fishy" Wang
 - EmeraldIsland
 - Krzysztof Trybowski
+
+
+Projeto educacional, apenas dentro do github para fins didáticos. 
+
+Projto quase finalizado, em implementação e ajustes finais.
